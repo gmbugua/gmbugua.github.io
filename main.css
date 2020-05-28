@@ -1,5 +1,5 @@
 h1,
-h2, .footer {
+h2, .footer, .references {
     margin: 0 auto;
     font-family: system-ui, sans-serif;
     font-weight: 600;
@@ -59,4 +59,8 @@ h2 {
     background-color: rgb(117, 163, 163);
     border-width: 1.5px;
     border-color: #222;
+}
+
+.references span {
+    display: block;
 }
