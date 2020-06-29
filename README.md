@@ -1,4 +1,5 @@
 # New York Chloropleth
+## Done with D3.js
 
 # Acknowlegements
 Mike Bostock - His tutorial on collecting, generating and understanding GeoJSON and Topological data was critical to my visualization's success. 
