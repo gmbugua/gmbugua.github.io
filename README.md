@@ -1,4 +1,4 @@
-# New York Chloropleth
+# New York Choropleth
 
 ## Frameworks:
     * D3.js
