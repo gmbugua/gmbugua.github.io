@@ -1,4 +1,4 @@
-# New York Choropleth
+# New York Population Density Choropleth
 
 ## Frameworks:
     * D3.js
